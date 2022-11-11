@@ -1,7 +1,7 @@
 
 <h1 align="start">Hi 👋, My name is Eva González</h1>
 <h3 align="start">I'm Frontend developer based in Barcelona</h3>
-<p>📫 You can contact me at <a href='evagonzalez.tic@gmail.com'>evagonzalez.tic@gmail.com</a></p>
+<p>📫 You can contact me at <a href='mailto:evagonzalez.tic@gmail.com'>evagonzalez.tic@gmail.com</a></p>
 
 
 <h3 align="left">Skills</h3>
